@@ -8,10 +8,10 @@ public class Main {
         System.out.println("SOS UN GARCA");
         //perrooooo
         //essdasd
-// prueba
+        // prueba
 public static fasdmglñasmlk
-
-        asdasd
+        
+asdasd
         hola perro
     }
 }
